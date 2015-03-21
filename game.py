@@ -24,4 +24,4 @@ if __name__ == "__main__":
     while  len(battle.heroes) > 0 and len(battle.enemies) > 0 :
         battle.next_battle_round();
 
-    print "\n===== BATTLE OVER ===="
+    print "\n===== THE BATTLE IS OVER ===="
